@@ -2,7 +2,7 @@
 
 Soy T.S.U. en Informática y actualmente estudio la carrera de ingeniería. Vivo en Caracas, Venezuela y me apasiona todo lo relacionado a ✨Desarrollo Web Front-End✨
  
-## 💻 Estudios 💻
+## 📚 Estudios 📚
 
 Actualmente estudio en Universidad Nacional Experimental de la Gran Caracas (UNEXCA). A su vez, he realizado un curso de Photoshop para el ✨Diseño de post y manejo de redes  sociales✨ en la plataforma "Udemy"
 
