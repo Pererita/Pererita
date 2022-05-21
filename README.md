@@ -1,6 +1,6 @@
 # 👋 Bienvenidos a mi perfil 👋
 
-Soy T.S.U. en Informática y actualmente estudio la carrera de ingeniería. Vivo en Caracas, Venezuela y me apasiona todo lo relacionado a ✨Desarrollo Web Front-End✨
+Soy T.S.U. en Informática y actualmente estudio la carrera de ingeniería. Vivo en Caracas, Venezuela y me apasiona todo lo relacionado a ✨Desarrollo Web Front-End✨ dispuesto a seguir aprendiendo cada día más sobre las nuevas tecnologías
  
 ## 📚 Estudios 📚
 
