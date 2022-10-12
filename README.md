@@ -13,7 +13,7 @@ Mi nombre es [Jesús Perera](https://comforting-concha-4bd3db.netlify.app/), me 
 - [Telegram](https://t.me/Pererita)
 - [LinkedIn](https://www.linkedin.com/in/pererita/)
 
-<ul style="list-style: none;">
+<ul style="list-style: none; display: flex;">
   <li>
     <a href="#">
       <img width="50" heigth="50" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
