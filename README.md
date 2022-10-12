@@ -13,35 +13,35 @@ Mi nombre es [Jesús Perera](https://comforting-concha-4bd3db.netlify.app/), me 
 - [Telegram](https://t.me/Pererita)
 - [LinkedIn](https://www.linkedin.com/in/pererita/)
 
-<ul>
+<ul list-style="none" display="flex" gap="20px">
   <li>
     <a href="https://andersongb1007.github.io/PergonStudio/">
-      <img width="200" heigth="200" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
+      <img width="50" heigth="50" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
     </a>
   </li>
   <li>
     <a href="https://andersongb1007.github.io/PergonStudio/">
-      <img width="200" heigth="200" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
+      <img width="50" heigth="50" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
     </a>
   </li>
   <li>
     <a href="https://andersongb1007.github.io/PergonStudio/">
-      <img width="200" heigth="200" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
+      <img width="50" heigth="50" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
     </a>
   </li>
   <li>
     <a href="https://andersongb1007.github.io/PergonStudio/">
-      <img width="200" heigth="200" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
+      <img width="50" heigth="50" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
     </a>
   </li>
   <li>
     <a href="https://andersongb1007.github.io/PergonStudio/">
-      <img width="200" heigth="200" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
+      <img width="50" heigth="50" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
     </a>
   </li>
   <li>
     <a href="https://andersongb1007.github.io/PergonStudio/">
-      <img width="200" heigth="200" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
+      <img width="50" heigth="50" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
     </a>
   </li>
 </ul>
