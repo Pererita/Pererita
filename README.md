@@ -12,9 +12,3 @@ Mi nombre es [Jesús Perera](https://comforting-concha-4bd3db.netlify.app/), me 
 - [Twitter](https://twitter.com/Pereritaa)
 - [Telegram](https://t.me/Pererita)
 - [LinkedIn](https://www.linkedin.com/in/pererita/)
-
-<p align="center">
-  <a href="https://andersongb1007.github.io/PergonStudio/">
-      <img width="100" heigth="100" src="https://github.com/Pererita/Landing-Page/blob/main/assets/images/Logo%20README.png">
-  </a>
-</p>
