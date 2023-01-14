@@ -1,9 +1,9 @@
 ## _Saludos cordiales_
 
-Mi nombre es [Jesús Perera](https://pererita.netlify.app/), me apasiona todo lo relacionado al desarrollo web, diseño y redacción, soy T.S.U. en Informática, actualmente sigo estudiando para así obtener mi título de ingeniero en la Universidad Nacional Experimental de la Gran Caracas (UNEXCA) ubicada en Venezuela, específicamente en Caracas. Cada día voy en búsqueda de adquirir nuevos conocimientos para así ser un profesional exitoso en mi área de trabajo y poner mis conocimientos al servicio de quién lo requiera.
+Mi nombre es [Jesús Perera](https://pererita.netlify.app/), soy apasionado por el desarrollo web, el diseño y la redacción. Tengo un Título Superior Universitario en Informática y actualmente estoy estudiando para obtener mi título de ingeniero en la Universidad Nacional Experimental de la Gran Caracas (UNEXCA) en Caracas, Venezuela. Continuamente estoy en busca de adquirir nuevos conocimientos para ser un profesional exitoso en mi área de trabajo y poder poner mis habilidades al servicio de quienes lo necesiten.
 
 ## _Proyectos_
-- [Pergon Studio](https://andersongb1007.github.io/PergonStudio/) - Busca ser un emprendimiento especializado en el diseño y desarrollo de páginas web totalmente personalizadas a las exigencias de cada cliente, a su vez, cuenta con el diseño de logos, post, estados e imágenes únicas para redes sociales o negocios, también ofrece un servicio de community manager para todo aquel que lo desee. Accede a nuestro [Instagram - Pergon Studio](https://www.instagram.com/pergonstudio/)
+- [Pergon Studio](https://andersongb1007.github.io/PergonStudio/) - Es un emprendimiento especializado en el diseño y desarrollo de páginas web totalmente personalizadas para cumplir con las necesidades específicas de cada cliente. Además, ofrece servicios de diseño de logos, publicaciones, estados y imágenes únicas para redes sociales o negocios. También cuenta con un servicio de community manager para aquellos interesados. Puedes visitar nuestro Instagram [@pergonstudio ](https://www.instagram.com/pergonstudio/) para ver algunos de nuestros trabajos y obtener más información sobre nuestros servicios.
 
 ## _Redes sociales_
 - [Instagram](https://www.instagram.com/pereritaa/)
