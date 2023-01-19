@@ -1,6 +1,6 @@
 <p align="center"> <br>
     <a href="https://pererita.netlify.app/"/a>
-     <img width="100%" src="https://github.com/Pererita/Pererita/blob/main/Banner%20Jes%C3%BAs%20Perera.png">
+     <img width="100%" src="https://github.com/Pererita/Pererita/blob/main/Banner%20Jes%C3%BAs%20Perera.png"> 
   </a>
 </p>
 
