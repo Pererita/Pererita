@@ -1,9 +1,3 @@
-<p align="center"> <br>
-    <a href="https://pererita.netlify.app/"/a>
-     <img width="100%" src="https://github.com/Pererita/Pererita/blob/main/Banner%20Jes%C3%BAs%20Perera.png"> 
-  </a>
-</p>
-
 ## _Saludos cordiales_
 
 Mi nombre es [Jesús Perera](https://pererita.netlify.app/), Ingeniero en Informática con experiencia en desarrollo web, redes y soporte técnico. Especializado en Front-End con habilidades en ReactJS, Astro, Laravel, Tailwind CSS y Bootstrap. Apasionado por el aprendizaje y la mejora continua. Busco oportunidades desafiantes para aplicar mis habilidades y contribuir a proyectos innovadores.
