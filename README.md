@@ -6,7 +6,7 @@ Desarrollador Web Full Stack e Ingeniero en Informática con más de 4 años de 
 
 ### 🌐 Conéctate conmigo
 
-[![Website](https://img.shields.io/badge/Sitio_Web-pererita.org-4b2bee?style=for-the-badge&logo=astro&logoColor=white)](https://www.pererita.org/)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-pererita.org-4b2bee?style=for-the-badge&logo=astro&logoColor=white)](https://www.pererita.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/pererita-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pererita/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pererita-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pererita)
 [![Email](https://img.shields.io/badge/Email-jesus2perera3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesus2perera3@gmail.com)
@@ -15,9 +15,9 @@ Desarrollador Web Full Stack e Ingeniero en Informática con más de 4 años de 
 
 ### 🚀 Sobre mí
 
-- 💻 **Enfocado en:** TypeScript, Next.js, Astro, Node.js, Python, PostgreSQL y Módulos Custom para Odoo ERP.
-- 🏗️ **Arquitectura:** Diseño e implementación de sistemas escalables, APIs REST y PWAs de alto rendimiento.
-- 🛠️ **DevOps & Cloud:** Docker, GitHub Actions, Linux (Ubuntu), DigitalOcean.
+- 💻 **Especialidad:** Desarrollo Full Stack (TypeScript, Next.js, Astro, Node.js, Python, PostgreSQL) y personalización de módulos ERP en Odoo.
+- 🏗️ **Arquitectura de Software:** Diseño e implementación de sistemas escalables, APIs REST y PWAs preparadas para alto tráfico.
+- 🛠️ **DevOps & Cloud:** Contenedores con Docker, pipelines CI/CD con GitHub Actions y gestión de infraestructura Linux en DigitalOcean.
 
 ---
 
@@ -43,19 +43,3 @@ Desarrollador Web Full Stack e Ingeniero en Informática con más de 4 años de 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-
----
-
-### 📌 Proyectos Destacados
-
-- 📊 **[Finanzas-app](https://finanzas.pererita.org)** — Sistema PWA de gestión financiera de alto rendimiento construido con Next.js y PostgreSQL.
-- 🧘 **[FocusFlow](https://focus-flow.pererita.org)** — Extensión open-source para Chrome diseñada para cuidar la salud ergonómica y pausas activas (20-8-2).
-- 📦 **[useCaptureElement](https://capture-element.pererita.org)** — Paquete NPM para desarrolladores React que permite la captura precisa de elementos DOM con hooks.
-- 🔗 **[github-discuss-odoo](https://github.com/Pererita/github-discuss-odoo)** — Integración webhook entre GitHub y Odoo para sincronizar notificaciones en tiempo real en el módulo Discuss.
-
----
-
-### 📊 GitHub Stats
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Pererita&show_icons=true&theme=dark&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Pererita&layout=compact&theme=dark&hide_border=true)
