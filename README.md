@@ -1,10 +1,10 @@
-# ¡Hola! Soy Jesús Perera (Pererita) 👋
+# Jesús Perera (Pererita)
 
 Desarrollador Web Full Stack e Ingeniero en Informática con más de 4 años de experiencia construyendo infraestructura web de alto rendimiento, aplicaciones modernas y soluciones ERP empresariales a medida.
 
 ---
 
-### 🌐 Conéctate conmigo
+### Conéctate conmigo
 
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-pererita.org-4b2bee?style=for-the-badge&logo=astro&logoColor=white)](https://www.pererita.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/pererita-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pererita/)
@@ -13,15 +13,15 @@ Desarrollador Web Full Stack e Ingeniero en Informática con más de 4 años de 
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 💻 **Especialidad:** Desarrollo Full Stack (TypeScript, Next.js, Astro, Node.js, Python, PostgreSQL) y personalización de módulos ERP en Odoo.
-- 🏗️ **Arquitectura de Software:** Diseño e implementación de sistemas escalables, APIs REST y PWAs preparadas para alto tráfico.
-- 🛠️ **DevOps & Cloud:** Contenedores con Docker, pipelines CI/CD con GitHub Actions y gestión de infraestructura Linux en DigitalOcean.
+- **Especialidad:** Desarrollo Full Stack (TypeScript, Next.js, Astro, Node.js, Python, PostgreSQL) y personalización de módulos ERP en Odoo.
+- **Arquitectura de Software:** Diseño e implementación de sistemas escalables, APIs REST y PWAs preparadas para alto tráfico.
+- **DevOps & Cloud:** Contenedores con Docker, pipelines CI/CD con GitHub Actions y gestión de infraestructura Linux en DigitalOcean.
 
 ---
 
-### 🛠️ Arsenal & Tecnologías
+### Arsenal & Tecnologías
 
 **Frontend & UI:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
