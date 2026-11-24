@@ -2,7 +2,7 @@
 
 Ingeniero en Informática y Desarrollador Web Full Stack con más de 4 años de experiencia construyendo sistemas en producción.
 
-Actualmente enfocado en el desarrollo de API Gateways financieros (Open Banking), aplicaciones web, y módulos personalizados sobre Odoo (17, 18 y 19).
+Actualmente enfocado en el desarrollo de API Gateways financieros (Open Banking), aplicaciones web, y módulos personalizados de Odoo.
 
 ### Lo que construyo
 
