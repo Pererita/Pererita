@@ -1,19 +1,18 @@
-### 👋 ¡Hola! Soy Jesús Perera (`Pererita`)
+# Jesús Perera
 
-**Ingeniero en Informática** y **Desarrollador Web Full Stack** con más de 4 años diseñando software en producción: desde **API Gateways Open Banking** y módulos a medida en **Odoo (17–19)** hasta aplicaciones web de alto rendimiento con **Next.js / Astro** y flujos con **agentes de IA (MCP)**.
+Ingeniero en Informática y Desarrollador Web Full Stack con más de 4 años de experiencia construyendo sistemas en producción.
 
----
+Actualmente enfocado en el desarrollo de API Gateways financieros (Open Banking), aplicaciones web con Next.js y Astro, y módulos personalizados sobre Odoo (17, 18 y 19).
 
-### 🚀 Lo que hago
+### Lo que construyo
 
-- 🏦 **Web & Open Banking:** Aplicaciones SSR con Next.js, API Gateways en Node.js/Express, caché en tiempo real con Redis y Webhooks fan-out.
-- ⚙️ **ERP & Automatización:** Desarrollo nativo en Odoo (versiones 17, 18 y 19) con Python, OWL, JSON-RPC, trazabilidad contable y modelado BPMN 2.0.
-- 🤖 **IA Agéntica & DevSecOps:** Orquestación de flujos con servidores MCP y subagentes, identidad con Keycloak/JWT/2FA, pruebas E2E con Playwright y pipelines Docker CI/CD.
-- ✍️ **Bitácora técnica:** Escribo sobre arquitectura de software, fintech, Odoo y testing en **[pererita.org/blog](https://www.pererita.org/blog)**.
+- **Web & Fintech:** Interfaces SSR con Next.js, API Gateways en Node.js y Express, manejo de caché en tiempo real con Redis y distribución de eventos mediante Webhooks.
+- **Odoo ERP:** Desarrollo e integración de módulos a medida en Python y OWL (versiones 17 a 19), comunicación vía JSON-RPC y automatización de procesos empresariales.
+- **Calidad, Seguridad & Flujos con IA:** Identidad centralizada con Keycloak y 2FA, pruebas E2E con Playwright, contenedores Docker y flujos de trabajo asistidos por agentes y servidores MCP.
 
----
+Escribo de forma periódica sobre arquitectura, testing y desarrollo en [pererita.org/blog](https://www.pererita.org/blog).
 
-### 🛠️ Stack principal
+### Stack habitual
 
 **Frontend & QA:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -31,18 +30,13 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**IAM, Cloud & DevSecOps:**  
+**Infraestructura & Seguridad:**  
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+### Contacto
 
-### 📫 Conéctate conmigo
-
-[![Portafolio](https://img.shields.io/badge/Portafolio-pererita.org-4b2bee?style=for-the-badge&logo=astro&logoColor=white)](https://www.pererita.org/)
-[![Blog](https://img.shields.io/badge/Blog-Art%C3%ADculos-6366f1?style=for-the-badge&logo=bookstack&logoColor=white)](https://www.pererita.org/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/pererita-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pererita/)
-[![Email](https://img.shields.io/badge/Email-jesus2perera3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesus2perera3@gmail.com)
+[Portafolio](https://www.pererita.org/) · [Blog](https://www.pererita.org/blog) · [LinkedIn](https://www.linkedin.com/in/pererita/) · [jesus2perera3@gmail.com](mailto:jesus2perera3@gmail.com)
